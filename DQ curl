@@ -1,0 +1,6 @@
+curl --location 'https://api.stockedge.com/Api/SecurityDashboardApi/GetAdjDeliveriesByTimeSpan/4897?timeSpan=3&lang=en' \
+--header 'Accept: application/json, text/plain, */*' \
+--header 'Referer: https://web.stockedge.com/' \
+--header 'DNT: 1' \
+--header 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1' \
+--header 'Cookie: ARRAffinity=c9a58b38cede4afe41a9805e678033baf3c73dd91c7218c528571475cfd18363'
